@@ -19,7 +19,7 @@
   
 </p>
 <p>
-  <img src="https://img.shields.io/badge/nextdotjs-339933?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nextjs-339933?style=flat-square&logo=nextjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white"/>
   
