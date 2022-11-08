@@ -26,6 +26,7 @@
 <p>
   <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sass-FF4154?style=flat-square&logo=Sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 </p>
 
 ###
