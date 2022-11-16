@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Nextjs-000000?style=flat-square&logo=Nextdotjs&logoColor=white"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-Toolkit-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white"/>
 </p>
