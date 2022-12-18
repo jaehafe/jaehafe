@@ -3,7 +3,7 @@
   <a href="mailto:wogkdkrm112@gmail.com" target="_blank"><img src="https://img.shields.io/badge/wogkdkrm112@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a><br/>
 </p>
 <p>
-  👋&nbsp; Now, I've been studying Frontend skills🚀<br/>
+  👋&nbsp; Currently, I've been studying Frontend skills🚀<br/>
   
   ### Motto💪<br/>
   What Got me Here Won't Get Me There. <br/>
@@ -27,4 +27,9 @@
   <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sass-FF4154?style=flat-square&logo=Sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+</p>
+
+#### Interested in
+<p>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
 </p>
