@@ -1,19 +1,11 @@
-### 🤞 안녕하세요 이재하입니다.
-<p>
-  <a href="mailto:wogkdkrm112@gmail.com" target="_blank"><img src="https://img.shields.io/badge/wogkdkrm112@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a><br/>
-</p>
-<p>
-  👋&nbsp; Currently, I've been studying Frontend skills🚀<br/>
-  
-  ### Motto💪<br/>
-  What Got me Here Won't Get Me There. <br/>
-</p>
+## 안녕하세요 이재하입니다.
+- “What got me here won’t get me there.”
+- 끊임없이 발전하기를 원합니다(slowly but surely).
+- 모르는 것은 즉시 실행하면서, 오류에 부딪히고 깨달음을 얻는 것을 즐깁니다.
+- 자발적인 도전을 지향합니다.
 
-### 🧊 Skills
-#### Frameworks & Languages
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nextjs-000000?style=flat-square&logo=Nextdotjs&logoColor=white"/>
-</p>
+## Frontend
+- JavaScript
+- TypeScript
+- React
+- NodeJS
