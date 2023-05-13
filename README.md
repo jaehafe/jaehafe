@@ -8,4 +8,4 @@
 - TypeScript
 - React
 - Next.js
-- NodeJS
+- Node.js
