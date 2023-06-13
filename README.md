@@ -4,7 +4,6 @@
 - 자발적인 도전을 지향합니다.
 
 ## Frontend
-- JavaScript
 - TypeScript
 - React
 - Next.js
