@@ -1,6 +1,5 @@
 ## Stack
-- TypeScript
-- React
+- React-Native
 - Next.js
-- Node.js
-- NestJS
+- React
+- TypeScript
